@@ -66,7 +66,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/PROBOY-OP/PRO-USERBOT.git`
+`git clone https://github.com/alammudassir/PRO-USERBOT.git`
 - Open Cloned Folder.
 
 `cd PRO-USERBOT`
